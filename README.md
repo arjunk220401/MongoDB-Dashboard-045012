@@ -55,3 +55,5 @@ Dashboard Image:
 6. Identify and address the shift in movie-going preferences: The "Year Wise Trend in Top Movies" chart indicates a potential shift in audience preferences, with certain genres (e.g., Adventure/Comedy/Drama) gaining popularity over time. Adapting your project to align with these evolving preferences could improve its chances of success.
 
 By leveraging the insights from this dashboard, we can make more informed decisions to enhance the quality, appeal, and performance of our movie project.
+
+Source of the dataset: https://www.kaggle.com/datasets/ashishjangra27/imdb-top-250-movies
