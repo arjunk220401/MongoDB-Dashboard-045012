@@ -4,15 +4,23 @@ The dataset contains information about various movies listed on IMDB.
 
 Key attributes include:
 
-Movie Title: Name of the movie.
-Release Year: Year the movie was released.
-Genre: Primary genre(s) of the movie (e.g., Action, Drama, Comedy).
-Director: Name of the director(s) of the movie.
-Writer: Name of the writor(s) of the movie.
-Duration (Minutes): Total running time of the movie in minutes.
-IMDB Rating: Average rating on IMDB out of 10.
-IMDB Votes: Total number of votes the movie has received.
-Cast: Main actors and actresses.
+1. Movie Title: Name of the movie.
+
+2. Release Year: Year the movie was released.
+
+3. Genre: Primary genre(s) of the movie (e.g., Action, Drama, Comedy).
+
+4. Director: Name of the director(s) of the movie.
+
+5. Writer: Name of the writor(s) of the movie.
+
+6. Duration (Minutes): Total running time of the movie in minutes.
+
+7. IMDB Rating: Average rating on IMDB out of 10.
+
+8. IMDB Votes: Total number of votes the movie has received.
+
+9. Cast: Main actors and actresses.
 
 
 # Objectives
