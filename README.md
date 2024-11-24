@@ -47,7 +47,7 @@ Dashboard Image:
 
 1. Focus on improving movie quality and audience appeal: The dashboard shows a declining trend in IMDB ratings over the years, suggesting a need to focus on improving movie quality and audience appeal to maintain or increase ratings.
    
-2.Diversify movie genres: The "Distribution of Movie Genres Over Decades" chart indicates an opportunity to diversify movie genres beyond the currently dominant genres like Action/Adventure, Action-Sci-Fi, and Drama/Thriller/War. Exploring other genres could help attract a wider audience.
+2. Diversify movie genres: The "Distribution of Movie Genres Over Decades" chart indicates an opportunity to diversify movie genres beyond the currently dominant genres like Action/Adventure, Action-Sci-Fi, and Drama/Thriller/War. Exploring other genres could help attract a wider audience.
 
 3. Understand top directors and learn from their success: The "Top Directors by Number of Movies" chart highlights successful directors like Akira Kurosawa, Steven Spielberg, and Stanley Kubrick. Studying their approach and techniques could provide valuable insights for your project.
    
@@ -57,7 +57,7 @@ Dashboard Image:
    
 6. Identify and address the shift in movie-going preferences: The "Year Wise Trend in Top Movies" chart indicates a potential shift in audience preferences, with certain genres (e.g., Adventure/Comedy/Drama) gaining popularity over time. Adapting your project to align with these evolving preferences could improve its chances of success.
 
-7.Study the Golden Age success factors: The candlestick chart reveals that movies from the 1960s-1970s achieved peak ratings (8.6-9.2), suggesting the importance of studying this era's filmmaking approaches and potentially adapting successful elements to modern productions.
+7. Study the Golden Age success factors: The candlestick chart reveals that movies from the 1960s-1970s achieved peak ratings (8.6-9.2), suggesting the importance of studying this era's filmmaking approaches and potentially adapting successful elements to modern productions.
 
 8. Balance risk and consistency: The lower volatility but slightly lower ratings in recent decades (8.0-8.2) indicate a more conservative approach to filmmaking. Consider finding a sweet spot between creative risk-taking and maintaining consistent quality.
    
