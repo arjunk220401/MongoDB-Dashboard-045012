@@ -37,7 +37,8 @@ Key attributes include:
 
 Dashboard Image: 
 
-![045012](https://github.com/user-attachments/assets/e041f905-ed3f-4f43-b1ff-cbce903bab86)
+![Uploading IMDB Dashboard.png…]()
+
 
 
 # Managerial Insights
